@@ -1,0 +1,46 @@
+//the color variables 
+$primary-color: #016699;
+$secondary-color: #FFFFFF;
+$pes-primary-color: #7ba73e;
+
+//The font faces for used fonts
+@font-face {
+    font-family: AllerDisplay;
+    src: url(/src/fonts/AllerDisplay.woff) format(woff);
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Helvetica_LT_Std_Bold;
+    src: url(/src/fonts/Helvetica_LT_Std_Bold.woff);
+}
+
+@font-face {
+    font-family: Helvetica_LT_Std_Compressed;
+    src: url(/src/fonts/Helvetica_LT_Std_Compressed.woff);
+}
+
+@font-face {
+    font-family: Helvetica_LT_Std_Light;
+    src: url(/src/fonts/Helvetica_LT_Std_Light.woff);
+}
+
+@font-face {
+    font-family: Halvetica;
+    src: url(/src/fonts/Helvetica.woff);
+}
+
+@font-face {
+    font-family: Futura_Std_Book;
+    src: url(/src/fonts/Futura_Std_Book.woff);
+}
+
+@font-face {
+    font-family: Futura_Std_Light;
+    src: url(/src/fonts/Futura_Std_Light.woff);
+}
+
+@font-face {
+    font-family: Helvetica_Bold_Oblique;
+    src: url(/src/fonts/Helvetica_Bold_Oblique.woff);
+}
